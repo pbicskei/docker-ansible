@@ -1,5 +1,7 @@
 # Ansible Docker Image
 
+[![Build and push Docker image](https://github.com/pbicskei/docker-ansible/actions/workflows/main.yml/badge.svg)](https://github.com/pbicskei/docker-ansible/actions/workflows/main.yml)
+
 A Docker image for Ansible that allows you to run Ansible commands within a container.
 
 ## Introduction
